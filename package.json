@@ -1,0 +1,25 @@
+{
+  "name": "lottery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikearaya/solidity_lottery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mikearaya/solidity_lottery/issues"
+  },
+  "homepage": "https://github.com/Mikearaya/solidity_lottery#readme",
+  "dependencies": {
+    "ganache-cli": "^6.7.0",
+    "mocha": "^6.2.0",
+    "solc": "^0.5.11",
+    "web3": "^1.0.0-beta.26"
+  }
+}
