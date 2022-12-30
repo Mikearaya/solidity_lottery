@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Mikearaya/solidity_lottery#readme",
     "dependencies": {
     "ganache-cli": "^6.7.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "solc": "^0.5.11",
     "web3": "^1.0.0-beta.26"
   }
